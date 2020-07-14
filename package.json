@@ -1,0 +1,17 @@
+{
+  "name": "myproj",
+  "version": "1.0.0",
+  "description": "farida main proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "farida",
+  "license": "ISC",
+  "dependencies": {
+    "reactjs": "^1.0.0"
+  }
+}
